@@ -1,0 +1,10 @@
+//  STYLE DOC
+
+@import "partials/_variables-two.scss";
+@import "partials/_login.scss";
+@import "partials/_menubar.scss";
+@import "partials/_sidebar.scss";
+@import "partials/_information.scss";
+@import "partials/_comments.scss";
+@import "partials/_chart.scss";
+@import "partials/_goalheader.scss";

@@ -1,0 +1,54 @@
+// COMMENTS COMPONENT
+
+#comments {
+
+h1 {
+	font: $font;
+	font-size: 27px;
+	position: absolute;
+	color: #f4b77a;
+	top: 100px;
+	left: 430px;
+    }
+
+h2 {
+    font: $font;
+    font-size: $p-font-size;
+	position: absolute;
+	top: 440px;
+	margin-left: 360px;
+	color: #2dbbdd;
+    }
+
+h3 {
+	font: $font;
+    font-size: $p-font-size;
+	position: absolute;
+	top: 440px;
+	margin-left: 780px;
+	color: #cb8ebe;
+    }
+
+h4 {
+    font: $font;
+    font-size: $p-font-size;
+	position: absolute;
+	top: 940px;
+	margin-left: 320px;
+	color: #9dcb41;	
+    }
+
+h5 {
+    font: $font;
+    font-size: $p-font-size;
+	position: absolute;
+	top: 940px;
+	left: 975px;
+	color: #5c50a0;
+	}
+
+
+
+
+
+}

@@ -1,0 +1,65 @@
+// LOGIN COMPONENT
+
+
+html, body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	background-color: whitesmoke;
+}
+
+	#login {
+	display: block;
+	padding: 30px;
+	background: $primary-color;
+	width: 400px;
+	height:600px;
+	margin: auto;
+	font: $font;
+
+	form {
+	margin-top: 100px;
+	}
+
+
+	h1 {
+	text-align: center;
+	margin: 0 auto;
+	font-size: $h-font-size;
+	color: #509b8e;
+	padding: 30px;
+	}
+
+
+	input {
+	color: #509b8e;
+	display: block;
+	margin: 0 auto;
+	position: relative;
+	width: 220px;
+	font: $font;
+	margin-bottom: 15px;   
+	}
+
+	input:hover {
+	color: #f4b77a;
+	}
+
+	
+	a {
+	display: block;
+	color: #509b8e;
+	margin: 0 auto;
+	text-align: center;
+	text-style: none;
+	text-decoration: none;
+	padding-top: 10px;
+	}
+
+	a:hover {
+	color: #f4b77a;
+	}
+
+}

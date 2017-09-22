@@ -1,0 +1,60 @@
+// SIDEBAR COMP
+
+#sidebar {
+	background-color: $primary-color;
+	position: fixed;
+	display: block;
+	width: 15%;
+	height: 100%;
+
+    img {
+      width: 100%;
+      margin-top: 100px;
+    }
+
+      h1 {
+      padding-top: 10px;
+      font: $font;
+      color: #f4b77a;
+      text-align: center;
+      }
+
+
+      ul {
+      color: $secondary-color;
+      font-size: 18px;
+      font: $font;
+      padding-left: 0;
+      }
+
+      li {
+      list-style-type: none;
+      text-decoration: none;
+      padding-bottom: 10px;
+      padding-top: 7px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      background-color: #509b8e;
+      text-align: center;
+      }
+
+      a {
+      color: $secondary-color;
+      text-decoration: none;
+      }
+
+      a:hover {
+      color: #f4b77a;
+      }
+
+      input {
+      position: fixed;
+      margin-top: 20px;
+      color: $primary-color;
+      font-size: $p-font-size;
+      background-color: #f4b77a;
+      width: 15%;
+      height: 40px;
+      }
+
+}
